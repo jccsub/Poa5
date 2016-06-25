@@ -1,7 +1,12 @@
 {
-  "name": "asp.n",
+  "name": "asp.net",
   "private": true,
   "dependencies": {
-    "angular": "1.4.5"
+    "angular": "1.4.5",
+    "angular-route": "~1.4.5",
+    "bootstrap": "3.3.5"
+  },
+  "resolutions": {
+    "angular": "1.4.12"
   }
 }
